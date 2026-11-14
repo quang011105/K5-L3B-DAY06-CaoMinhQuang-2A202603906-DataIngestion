@@ -317,5 +317,6 @@ logic lấy từ lần chạy thật. Không tạo số liệu chưa chạy, kh�
 test/config để nâng điểm sau đánh giá. Model local không gửi corpus đến
 API embedding. Học viên cần hiểu và giải thích được phương pháp theo RULES.md.
 
-Commit chốt bài chưa được tạo/ghi nhận; cập nhật `STUDENT.md` sau bước
-kiểm tra và commit cuối. Báo cáo không tuyên bố đã push hoặc nộp link.
+Commit chứa bài làm và kết quả: `f959715` — Hoan thanh bai lab data ingestion.
+Commit tiếp theo chỉ cập nhật thông tin chốt bài. Việc nộp link theo kênh
+của lớp là bước riêng, không tự suy ra từ việc push GitHub.
