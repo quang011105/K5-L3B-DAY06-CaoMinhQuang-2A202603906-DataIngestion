@@ -315,8 +315,5 @@ GUIDE.md, có lý do từng trường hợp và đã được người dùng xá
 ghi giả học viên là người chấm độc lập. Metric/thời gian/số chunk/test
 logic lấy từ lần chạy thật. Không tạo số liệu chưa chạy, không chỉnh
 test/config để nâng điểm sau đánh giá. Model local không gửi corpus đến
-API embedding. Học viên cần hiểu và giải thích được phương pháp theo RULES.md.
+API embedding.
 
-Commit chứa bài làm và kết quả: `f959715` — Hoan thanh bai lab data ingestion.
-Commit tiếp theo chỉ cập nhật thông tin chốt bài. Việc nộp link theo kênh
-của lớp là bước riêng, không tự suy ra từ việc push GitHub.
