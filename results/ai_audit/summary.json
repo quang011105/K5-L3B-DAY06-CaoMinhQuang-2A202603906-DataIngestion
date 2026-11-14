@@ -1,0 +1,69 @@
+{
+  "reviewer": "Codex (AI assistant in this session; not the student)",
+  "status": "AI proposal; pending student review",
+  "human_confirmed": false,
+  "method": "Case-by-case reading of sampled chunks and all test top-3; fresh original PDF extraction and bookmark checks; visual inspection of PDF 88,90,116,117,118,119. Labels are AI-authored proposals, not string-match inference or human manual grades.",
+  "bias": "Same assistant authored pipeline/benchmark and has seen metrics; review is not blind or independent.",
+  "raw_metrics_unchanged": true,
+  "strategies": [
+    {
+      "strategy": "A",
+      "coherence_n": 10,
+      "ai_coherence_mean": 1.0,
+      "ai_coherence_counts": {
+        "1": 10
+      },
+      "metadata_correct": 15,
+      "metadata_checked": 15,
+      "filter_compliant_questions": 0,
+      "filter_question_count": 1,
+      "ai_grounding_counts": {
+        "2": 5
+      },
+      "ai_grounding_mean": 2.0,
+      "ai_equivalent_evidence_hit1_count": 4,
+      "ai_equivalent_evidence_hit3_count": 5,
+      "test_n": 5
+    },
+    {
+      "strategy": "B",
+      "coherence_n": 10,
+      "ai_coherence_mean": 1.7,
+      "ai_coherence_counts": {
+        "1": 3,
+        "2": 7
+      },
+      "metadata_correct": 15,
+      "metadata_checked": 15,
+      "filter_compliant_questions": 1,
+      "filter_question_count": 1,
+      "ai_grounding_counts": {
+        "2": 5
+      },
+      "ai_grounding_mean": 2.0,
+      "ai_equivalent_evidence_hit1_count": 3,
+      "ai_equivalent_evidence_hit3_count": 5,
+      "test_n": 5
+    },
+    {
+      "strategy": "C",
+      "coherence_n": 10,
+      "ai_coherence_mean": 1.7,
+      "ai_coherence_counts": {
+        "1": 3,
+        "2": 7
+      },
+      "metadata_correct": 15,
+      "metadata_checked": 15,
+      "filter_compliant_questions": 1,
+      "filter_question_count": 1,
+      "ai_grounding_counts": {
+        "2": 5
+      },
+      "ai_grounding_mean": 2.0,
+      "ai_equivalent_evidence_hit1_count": 3,
+      "ai_equivalent_evidence_hit3_count": 5,
+      "test_n": 5
+    }
+  ]
+}

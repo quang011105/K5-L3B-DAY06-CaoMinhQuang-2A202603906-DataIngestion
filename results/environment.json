@@ -1,0 +1,19 @@
+{
+  "utc": "2026-11-14T02:37:13.309895+00:00",
+  "versions": {
+    "sentence-transformers": "5.4.1",
+    "chromadb": "1.5.9",
+    "torch": "2.9.0",
+    "PyMuPDF": "1.27.2.3"
+  },
+  "model": "BAAI/bge-m3",
+  "revision": "5617a9f61b028005a4858fdac845db406aefb181",
+  "dimensions": 1024,
+  "model_max_seq_length": 8192,
+  "device": "cpu",
+  "torch_threads": 4,
+  "query_document_encoding": "same dense encode, no prefix, L2 normalization, float32",
+  "model_store_initialization_seconds": 2.798197700001765,
+  "search": "Chroma cosine HNSW ANN; ef_search=100, ef_construction=100, max_neighbors=16",
+  "paid_service_cost_usd": 0
+}

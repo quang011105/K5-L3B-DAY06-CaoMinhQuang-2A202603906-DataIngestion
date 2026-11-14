@@ -1,0 +1,7 @@
+{
+  "event": "Initial offline model startup warning",
+  "observed_during": "First ingest in this session",
+  "detail": "Transformers background safetensors auto-conversion attempted network access and received WinError 10013. Cached local model weights loaded and dense embedding inference continued. This was not a model fallback.",
+  "mitigation": "Subsequent CLI invocations set HF_HUB_OFFLINE and TRANSFORMERS_OFFLINE before importing the model library.",
+  "scope": "Original source PDF and corpus were not sent to an API."
+}

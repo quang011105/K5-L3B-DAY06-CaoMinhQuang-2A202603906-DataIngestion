@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed,1000,100,document_id|source|page|chapter|chapter_title|language|start_char|end_char,none,BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181,Fixed windows provide a simple baseline but may split evidence,9/15,13/15,2/5,3/5,Parameters fixed before first retrieval; cosine Chroma ANN
+B,sentence_line_aware,1000,0,document_id|source|page|chapter|chapter_title|language|start_char|end_char,none,BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181,Boundary-aware grouping may improve coherence but has no overlap,8/15,11/15,1/5,2/5,Same corpus and model as A; PDF line boundaries imperfect
+C,sentence_line_aware,1000,0,document_id|source|page|chapter|chapter_title|language|start_char|end_char,chapter only when supplied in question,BAAI/bge-m3@5617a9f61b028005a4858fdac845db406aefb181,Chapter filter may exclude distractors for scoped questions,8/15,11/15,1/5,2/5,Identical chunks and vectors to B; embedding cache reused

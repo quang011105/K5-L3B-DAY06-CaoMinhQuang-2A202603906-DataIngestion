@@ -1,0 +1,340 @@
+{
+  "source_id": "openstax-principles-economics-3e-local-2026",
+  "title": "Principles of Economics 3e",
+  "publisher": "OpenStax, Rice University",
+  "source_path_or_url": "data/principles-economics-3e_-_WEB.pdf",
+  "reference_url_from_pdf": "https://openstax.org/details/books/principles-economics-3e",
+  "accessed_at": "2026-11-14",
+  "access_note": "Local PDF inspected on this date; original download date/URL not independently verified.",
+  "license_or_permission": "CC BY-NC-SA 4.0, as stated on physical PDF page 4; retain attribution and observe noncommercial/share-alike terms and exclusions stated there.",
+  "attribution": "Principles of Economics 3e, OpenStax, Rice University. Access for free at openstax.org.",
+  "snapshot": {
+    "sha256": "2d2e7549e13a1975965bfb14a577a3d7935173ff10ca2e1d953815560590a4eb",
+    "bytes": 49444584,
+    "pdf_physical_page_count": 995
+  },
+  "scope": "Supply and demand in goods, labor and financial markets (main exposition in chapters 3 and 4).",
+  "counting_rule": "Count each selected physical PDF page once, including figures/tables supporting the exposition. Exclude front matter, contents, chapter opening pages, end-of-chapter terms/summaries/exercises, and all other pages. PDF pages are one-based; these are not printed page labels. The 1500-character rule for unpaginated sources is not applied to PDF pages.",
+  "selected_pdf_page_ranges_inclusive": [
+    [
+      64,
+      93
+    ],
+    [
+      102,
+      119
+    ]
+  ],
+  "content_page_count": 48,
+  "normalized_char_count": 139066,
+  "pages": [
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:64",
+      "pdf_page": 64,
+      "chapter": 3,
+      "normalized_char_count": 3695
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:65",
+      "pdf_page": 65,
+      "chapter": 3,
+      "normalized_char_count": 2144
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:66",
+      "pdf_page": 66,
+      "chapter": 3,
+      "normalized_char_count": 2727
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:67",
+      "pdf_page": 67,
+      "chapter": 3,
+      "normalized_char_count": 1984
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:68",
+      "pdf_page": 68,
+      "chapter": 3,
+      "normalized_char_count": 1926
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:69",
+      "pdf_page": 69,
+      "chapter": 3,
+      "normalized_char_count": 3913
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:70",
+      "pdf_page": 70,
+      "chapter": 3,
+      "normalized_char_count": 3670
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:71",
+      "pdf_page": 71,
+      "chapter": 3,
+      "normalized_char_count": 2617
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:72",
+      "pdf_page": 72,
+      "chapter": 3,
+      "normalized_char_count": 2091
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:73",
+      "pdf_page": 73,
+      "chapter": 3,
+      "normalized_char_count": 4338
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:74",
+      "pdf_page": 74,
+      "chapter": 3,
+      "normalized_char_count": 1602
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:75",
+      "pdf_page": 75,
+      "chapter": 3,
+      "normalized_char_count": 2196
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:76",
+      "pdf_page": 76,
+      "chapter": 3,
+      "normalized_char_count": 2247
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:77",
+      "pdf_page": 77,
+      "chapter": 3,
+      "normalized_char_count": 4119
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:78",
+      "pdf_page": 78,
+      "chapter": 3,
+      "normalized_char_count": 1713
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:79",
+      "pdf_page": 79,
+      "chapter": 3,
+      "normalized_char_count": 1344
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:80",
+      "pdf_page": 80,
+      "chapter": 3,
+      "normalized_char_count": 2948
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:81",
+      "pdf_page": 81,
+      "chapter": 3,
+      "normalized_char_count": 1643
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:82",
+      "pdf_page": 82,
+      "chapter": 3,
+      "normalized_char_count": 2683
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:83",
+      "pdf_page": 83,
+      "chapter": 3,
+      "normalized_char_count": 2715
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:84",
+      "pdf_page": 84,
+      "chapter": 3,
+      "normalized_char_count": 2787
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:85",
+      "pdf_page": 85,
+      "chapter": 3,
+      "normalized_char_count": 2592
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:86",
+      "pdf_page": 86,
+      "chapter": 3,
+      "normalized_char_count": 2953
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:87",
+      "pdf_page": 87,
+      "chapter": 3,
+      "normalized_char_count": 3422
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:88",
+      "pdf_page": 88,
+      "chapter": 3,
+      "normalized_char_count": 2591
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:89",
+      "pdf_page": 89,
+      "chapter": 3,
+      "normalized_char_count": 3125
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:90",
+      "pdf_page": 90,
+      "chapter": 3,
+      "normalized_char_count": 2464
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:91",
+      "pdf_page": 91,
+      "chapter": 3,
+      "normalized_char_count": 3071
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:92",
+      "pdf_page": 92,
+      "chapter": 3,
+      "normalized_char_count": 3319
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:93",
+      "pdf_page": 93,
+      "chapter": 3,
+      "normalized_char_count": 4029
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:102",
+      "pdf_page": 102,
+      "chapter": 4,
+      "normalized_char_count": 3517
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:103",
+      "pdf_page": 103,
+      "chapter": 4,
+      "normalized_char_count": 2218
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:104",
+      "pdf_page": 104,
+      "chapter": 4,
+      "normalized_char_count": 4408
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:105",
+      "pdf_page": 105,
+      "chapter": 4,
+      "normalized_char_count": 3418
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:106",
+      "pdf_page": 106,
+      "chapter": 4,
+      "normalized_char_count": 3966
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:107",
+      "pdf_page": 107,
+      "chapter": 4,
+      "normalized_char_count": 2634
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:108",
+      "pdf_page": 108,
+      "chapter": 4,
+      "normalized_char_count": 3419
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:109",
+      "pdf_page": 109,
+      "chapter": 4,
+      "normalized_char_count": 3341
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:110",
+      "pdf_page": 110,
+      "chapter": 4,
+      "normalized_char_count": 3910
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:111",
+      "pdf_page": 111,
+      "chapter": 4,
+      "normalized_char_count": 2843
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:112",
+      "pdf_page": 112,
+      "chapter": 4,
+      "normalized_char_count": 3255
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:113",
+      "pdf_page": 113,
+      "chapter": 4,
+      "normalized_char_count": 3976
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:114",
+      "pdf_page": 114,
+      "chapter": 4,
+      "normalized_char_count": 1755
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:115",
+      "pdf_page": 115,
+      "chapter": 4,
+      "normalized_char_count": 3393
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:116",
+      "pdf_page": 116,
+      "chapter": 4,
+      "normalized_char_count": 4049
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:117",
+      "pdf_page": 117,
+      "chapter": 4,
+      "normalized_char_count": 3420
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:118",
+      "pdf_page": 118,
+      "chapter": 4,
+      "normalized_char_count": 2172
+    },
+    {
+      "page_id": "openstax-principles-economics-3e-local-2026:pdf:119",
+      "pdf_page": 119,
+      "chapter": 4,
+      "normalized_char_count": 704
+    }
+  ],
+  "metadata_schema": {
+    "document_id": "string: stable source ID for this local snapshot",
+    "source": "string: repository-relative original PDF path",
+    "page": "integer: one-based physical PDF page",
+    "chapter": "integer: 3 or 4, verified against PDF bookmarks",
+    "chapter_title": "string: title from PDF bookmarks",
+    "language": "string: en, observed source language"
+  },
+  "filter_rationale": "chapter distinguishes two source-backed scopes; apply a chapter filter only when supplied by question/context before retrieval, never inferred from gold evidence.",
+  "extraction": {
+    "library": "PyMuPDF",
+    "version": "1.27.2.3",
+    "unicode": "NFC",
+    "normalization": "Normalize whitespace within lines; retain line boundaries, headers/footers and attribution. No OCR, dehyphenation or guessed replacement of damaged characters."
+  },
+  "limitations": [
+    "Text order, figures and tables require evidence-level review before building benchmark gold.",
+    "Some special characters extract as U+FFFD; counts are logged per page. Evidence has not yet been verified.",
+    "Normalized character counts include retained headers/footers; page eligibility is based on main exposition, not character threshold."
+  ]
+}

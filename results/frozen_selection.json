@@ -1,0 +1,36 @@
+{
+  "frozen_at_utc": "2026-11-14T02:36:50.903051+00:00",
+  "fingerprint": "7c4dcd0b33f08cd9acb50f346daf0797180fc558c9bcb18a92c723535f24ba15",
+  "selected_strategy": "A",
+  "dev_ranking": [
+    {
+      "strategy": "A",
+      "split": "dev",
+      "n": 15,
+      "hit1_count": 9,
+      "hit3_count": 13,
+      "hit1": 0.6,
+      "hit3": 0.8666666666666667
+    },
+    {
+      "strategy": "C",
+      "split": "dev",
+      "n": 15,
+      "hit1_count": 8,
+      "hit3_count": 11,
+      "hit1": 0.5333333333333333,
+      "hit3": 0.7333333333333333
+    },
+    {
+      "strategy": "B",
+      "split": "dev",
+      "n": 15,
+      "hit1_count": 8,
+      "hit3_count": 11,
+      "hit1": 0.5333333333333333,
+      "hit3": 0.7333333333333333
+    }
+  ],
+  "rule": "dev Evidence Hit@3, then dev Hit@1, then measured ingest time (cache effects disclosed in stats)",
+  "test_used_for_selection": false
+}

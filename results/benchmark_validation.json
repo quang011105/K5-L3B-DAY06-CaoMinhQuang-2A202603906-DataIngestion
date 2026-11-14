@@ -1,0 +1,113 @@
+{
+  "question_count": 20,
+  "split_counts": {
+    "dev": 15,
+    "test": 5
+  },
+  "filter_question_count": 4,
+  "test_filter_question_count": 1,
+  "verified_against": "Fresh extraction from original local PDF, same NFC/whitespace normalization as corpus preparation",
+  "limitations": "Checks evidence presence and schema; does not substitute student review of answer sufficiency, alternative gold or manual grounding/coherence labels.",
+  "questions": [
+    {
+      "id": "q01",
+      "pdf_page": 65,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q02",
+      "pdf_page": 66,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q03",
+      "pdf_page": 67,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q04",
+      "pdf_page": 68,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q05",
+      "pdf_page": 70,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q06",
+      "pdf_page": 71,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q07",
+      "pdf_page": 72,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q08",
+      "pdf_page": 73,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q09",
+      "pdf_page": 75,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q10",
+      "pdf_page": 86,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q11",
+      "pdf_page": 103,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q12",
+      "pdf_page": 104,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q13",
+      "pdf_page": 110,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q14",
+      "pdf_page": 111,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q15",
+      "pdf_page": 112,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q16",
+      "pdf_page": 88,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q17",
+      "pdf_page": 90,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q18",
+      "pdf_page": 116,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q19",
+      "pdf_page": 117,
+      "exact_evidence_match": true
+    },
+    {
+      "id": "q20",
+      "pdf_page": 118,
+      "exact_evidence_match": true
+    }
+  ]
+}
