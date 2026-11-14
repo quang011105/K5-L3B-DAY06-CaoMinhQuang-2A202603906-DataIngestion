@@ -185,16 +185,3 @@ Không suy coherence/grounding từ Hit@3. Các script audit chỉ tái ghi
 nhãn đã soạn, không phải một lượt chấm độc lập; không cần chạy lại để
 xem kết quả. Script apply từ chối ghi đè nhãn đã xác nhận.
 
-## 5. Trước khi nộp
-
-Đọc [SUBMISSION.md](SUBMISSION.md), kiểm tra [STUDENT.md](STUDENT.md),
-[báo cáo](report/individual/2A202603906_CaoMinhQuang.md), manifest/corpus,
-benchmark, experiment log và artifacts. Commit bài làm là `f959715`, ghi
-trong `STUDENT.md`; nộp link theo kênh lớp là bước riêng. Không commit
-`.env`, key, môi trường ảo hoặc `.local/`.
-
-Tài liệu đề bài để tra cứu: [GUIDE.md](GUIDE.md), [BENCHMARK.md](BENCHMARK.md),
-[RULES.md](RULES.md), [RUBRIC.md](RUBRIC.md), [CHECKPOINTS.md](CHECKPOINTS.md).
-Nội dung giới thiệu ban đầu giữ nguyên tại [README.md](README.md).
-Hướng dẫn PostgreSQL nguyên bản tại [starter/README.md](starter/README.md)
-chỉ dành cho phương án starter.
